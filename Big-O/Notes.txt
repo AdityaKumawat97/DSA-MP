@@ -1,2 +1,5 @@
 - Slides for Big O - 
 https://cs.slides.com/colt_steele/big-o-notation#/0/0/0
+
+performance tracker tool 
+https://rithmschool.github.io/function-timer-demo/
